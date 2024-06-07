@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /holbertonschool-shell/basics [[:upper:]]* /tmp/u
+mv /root/holbertonschool-shell/basics [[:upper:]]* /tmp/u
