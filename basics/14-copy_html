@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /root/holbertonschool-shell/basics*.html ..
+cp *.html ..
