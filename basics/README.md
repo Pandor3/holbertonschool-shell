@@ -1,4 +1,5 @@
 Script descriptions
+
 0. ./0-current_working_directory will tell you where you are in your directories.
 1. ls is a command which lists all the files and directories in your current directory.
 2. cd is a command which is used to move around directories when followed by the name of the directory
