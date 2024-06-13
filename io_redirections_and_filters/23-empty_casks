@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | find . -type f,d -empty | ls -1aR
+echo | find . -type f,d -empty | ls -1a | tr '\ ' '\n'
