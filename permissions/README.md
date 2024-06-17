@@ -11,4 +11,4 @@ Script Descriptions
 9. 'chmod 753 hello' like previously, the super user used the octal system to give permissions however this time he gave all permissions to the owner of the file, the reading and execution permissions to the groups and he gave writing aswell as execution permissions for the other users.
 10. 'chmod --reference=olleh hello' this command is used to take olleh's file permissions and to copy them onto the hello file.
 11. 'chmod -R ugo+x */*' is a command which will add the execute permission to all users on the subdirectories of the current directory.
-12. 'mkdir -m751 my_dir' Ceci permet de cr√er un r√pertoire nomm√ my_dir avec les permissi d√©j√†param√©tr√©es pour ce r√©pertoire. 
+12. 'mkdir -m751 my_dir' Ceci permet de cr√©er un √©√pertoire mm√ my_dir avec les permissions deja parametr√es pour ce repertoire.
